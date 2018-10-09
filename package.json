@@ -1,0 +1,19 @@
+{
+  "name": "zuiyue-app-style",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuiyue2012/zuiyue-app-style.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuiyue2012/zuiyue-app-style/issues"
+  },
+  "homepage": "https://github.com/zuiyue2012/zuiyue-app-style#readme"
+}
